@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "58ac6e46a98ac8a0dc4a277babb950c0",
+    "packages": [
+        {
+            "name": "rain/raintpl",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/feulf/raintpl3.git",
+                "reference": "fed74db70cc2a80df11fc302a2ea0077185be5e8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/feulf/raintpl3/zipball/fed74db70cc2a80df11fc302a2ea0077185be5e8",
+                "reference": "fed74db70cc2a80df11fc302a2ea0077185be5e8",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "4.4.*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Rain": "library/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Rain Community"
+                },
+                {
+                    "name": "Federico Ulfo",
+                    "email": "rainelemental@gmail.com"
+                }
+            ],
+            "description": "easy and fast template engine",
+            "homepage": "http://raintpl.com",
+            "time": "2016-12-15T14:21:40+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

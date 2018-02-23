@@ -1,0 +1,17 @@
+{
+    "name": "ericktarzia/curriculo",
+    "description": "Sistema para exemplo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Erick Tarzia",
+            "email": "ericktarzia@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+         "rain/raintpl": ">=3.0.0"
+        
+         
+    }
+}

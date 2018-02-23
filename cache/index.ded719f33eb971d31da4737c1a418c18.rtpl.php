@@ -1,0 +1,52 @@
+<?php if(!class_exists('Rain\Tpl')){exit;}?>
+<section class="hero">
+  <div class="container text-center">
+    <div class="row">
+      <div class="col-md-12">
+        <a class="hero-brand" href="index.html" title="Home"><img alt="Erick Tarzia" src="img/ericktarzia.png"></a>
+      </div>
+    </div>
+
+    <div class="col-md-12">
+      <h1>
+        Programador PHP
+      </h1>
+
+      <p class="tagline">
+        No meio da dificuldade encontra-se a oportunidade.<br>
+        <small ><i>Albert Einstein</i></small>
+      </p>
+      <a class="btn btn-full" href="#about">Sobre mim</a>
+    </div>
+  </div>
+
+</section>
+<!-- /Hero -->
+
+<!-- Header -->
+<header id="header">
+  <div class="container">
+
+    <div id="logo" class="pull-left">
+      <a href=""><img src="img/ericktarzia.png" alt="" title="" /></img></a>
+      <!-- Uncomment below if you prefer to use a text image -->
+      <!--<h1><a href="#hero">Bell</a></h1>-->
+    </div>
+
+    <nav id="nav-menu-container">
+      <ul class="nav-menu">
+        <li><a href="#about">Sobre mim</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+         <li><a href="#contact">Contato</a></li>
+      </ul>
+    </nav>
+    <!-- #nav-menu-container -->
+
+    <nav class="nav social-nav pull-right d-none d-lg-inline">
+      <a href="https://twitter.com/ericktarzia"><i class="fa fa-twitter"></i></a>
+      <a href="https://facebook.com/ericktarzia"><i class="fa fa-facebook"></i></a>
+      <a href="https://br.linkedin.com/in/erick-tarzia-25587947"><i class="fa fa-linkedin"></i></a>
+      <a href="mailto:ericktarzia@gmail.com"><i class="fa fa-envelope"></i></a>
+    </nav>
+  </div>
+</header>
