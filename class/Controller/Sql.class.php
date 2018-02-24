@@ -8,10 +8,10 @@ class Sql extends PDO
 
 	private $conn;
 
-	private $database 	= "ericktarzia";
-	private $host 		= "ericktarzia.mysql.dbaas.com.br";
-	private $user 		= "ericktarzia";
-	private $pass 		= "senha123";
+	private $database 	= "dbname";
+	private $host 		= "host";
+	private $user 		= "user";
+	private $pass 		= "";
 
 
 	/**
